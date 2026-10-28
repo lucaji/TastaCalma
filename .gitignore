@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Build products
+build/
+DerivedData/
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.xcarchive
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+Package.resolved.local
+
+# Temporary files and logs
+*.log
+*.tmp
+*.swp
+*~
+tmp/
+.cache/
+
+# Credentials and signing material
+*.p12
+*.cer
+*.mobileprovision
+*.provisionprofile
+Secrets.xcconfig
+secrets.xcconfig
+.env
+.env.*
+!.env.example
+
+
+# Release deliverables are attached to GitHub Releases
+*.zip
+*.dmg
+*.pkg
