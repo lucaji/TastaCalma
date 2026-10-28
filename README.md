@@ -1,18 +1,21 @@
 # TastaCalma
 
 <p align="center">
-  <img src="assets/tastacalma-app-icon.png" width="240" alt="Cloth artwork from the mammamia icon: a sage-green cleaning cloth with an embroidered Italian pinched-fingers gesture.">
+  <img src="assets/tastacalma-app-icon.png" width="120" alt="Cloth artwork from the mammamia icon: a sage-green cleaning cloth with an embroidered Italian pinched-fingers gesture.">
 </p>
 
 <p align="center"><strong>A little pause. A cleaner keyboard.</strong></p>
 
 TastaCalma is a small native macOS utility that temporarily blocks keyboard input
-while you wipe your Mac's keys. Choose a timer, click **Lock keyboard**, and take a
-moment to clean. Typing returns automatically when the countdown ends, and your
+while you wipe your Mac's keys.
+
+Choose a timer, click **Lock keyboard**, and take a
+moment to clean.
+
+Typing returns automatically when the countdown ends, and your
 mouse or trackpad stays available throughout.
 
-Built with **Swift 6 and SwiftUI**, with a quiet interface and a playful Italian
-touch.
+> Built with **Swift 6 and SwiftUI**, with a quiet interface and a playful Italian touch.
 
 ## Features
 
@@ -24,6 +27,10 @@ touch.
 - **Accessibility labels and spoken lock/unlock announcements.**
 - **English and 12 translations**, including localized app names.
 - **Works offline**, with no account, analytics, or third-party dependencies.
+
+<p align="center">
+  <img src="assets/tastacalma-screenshot02.jpg" alt="Screenshot macOS.">
+</p>
 
 ## Meet “mammamia” 🤌
 
